@@ -15,7 +15,6 @@
       <li>다양한 프로젝트 적용: APP 제작, 시뮬레이션 등 실습 중심 학습 가능</li>
     </ul>
     제이프로는 초등 고학년부터 중·고등학생, 코딩 입문자까지 누구나 쉽게 접근할 수 있으며, 소프트웨어 교육의 새로운 접근 방식을 제시합니다.</li>
-  <li><a href="https://github.com/yonghun16/coding_school_introduction_to_jaypro"> Github page </a></li>
 </ul>
 
 <br />
